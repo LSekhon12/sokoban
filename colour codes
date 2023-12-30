@@ -1,0 +1,5 @@
+box = brown, target = red, player = blue, wall = white
+white = #ffffff
+blue = #0000ff
+red = #ff0000
+brown = #964B00
